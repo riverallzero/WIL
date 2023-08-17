@@ -19,7 +19,7 @@ SeqDeepFake의 베이스라인 모델은 backbone이 resnet50으로 구성되어
 이렇게 함으로써 보다 효율적으로 모델의 성능을 향상시키는 데 도움이 된다. 
 EfficientNet은 ResNet과 다르게 각 레이어가 그 자체로 유용한 표현을 학습하므로, ResNet에서처럼 명시적인 return layer가 필요하지 않은 것이다.
 
-따라서 FrozenBatchNorm2d 클래스와 return layer를 없애고, num_channels 또한 알맞게 변경해 모델을 수정하였다.
+따라서 FrozenBatchNorm2d 클래스와 return layer를 없애고, num_channels 또한 알맞게 변경해 모델을 수정하였다. 그 결과 test 48%에서 52%로 정확도가 상승하였다.
 
 ## Resnet
 ```python
