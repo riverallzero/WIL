@@ -5,7 +5,7 @@
 - 배운 것을 문서(.md)로 만든 뒤 해당하는 주제 하위에 링크한다.
 
 ## Categories
-- [server](https://github.com/riverallzero/WIL/main/README.md#server)
+- [server](https://github.com/riverallzero/WIL#server)
 
 ## Contents
 ### server
