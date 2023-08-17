@@ -6,11 +6,15 @@
 
 ## Categories
 - [deeplearning](https://github.com/riverallzero/WIL#deeplearning)
+- [git](https://github.com/riverallzero/WIL#git)
 - [server](https://github.com/riverallzero/WIL#server)
 
 ## Contents
 ### 📁 deeplearning
 - [ResNet50 backbone을 EfficientNet-b4로 바꾸기](https://github.com/riverallzero/WIL/blob/main/deeplearning/resnet-efficientnet.md)
+
+### 📁 git
+- [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
