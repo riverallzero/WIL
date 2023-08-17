@@ -21,7 +21,7 @@ EfficientNet은 ResNet과 다르게 각 레이어가 그 자체로 유용한 표
 
 따라서 FrozenBatchNorm2d 클래스와 return layer를 없애고, num_channels 또한 알맞게 변경해 모델을 수정하였다. 그 결과 test 48%에서 52%로 정확도가 상승하였다.
 
-## Resnet
+## ResNet
 ```python
 class FrozenBatchNorm2d(torch.nn.Module):
     def __init__(self, n):
