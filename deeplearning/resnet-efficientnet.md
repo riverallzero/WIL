@@ -121,9 +121,7 @@ class BackboneBase(nn.Module):
 
     
 class Backbone(BackboneBase):
-    def __init__(self, 
-                 train_backbone: bool,
-                 ):
+    def __init__(self, train_backbone: bool):
         backbone = EfficientNet.from_pretrained('efficientnet-b4')
         num_channels = 1792
 
