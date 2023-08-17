@@ -5,9 +5,9 @@
 - 배운 것을 문서(.md)로 만든 뒤 해당하는 주제 하위에 링크한다.
 
 ## Categories
-- [deeplearning](https://github.com/riverallzero/WIL#deeplearning)
-- [git](https://github.com/riverallzero/WIL#git)
-- [server](https://github.com/riverallzero/WIL#server)
+- [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
+- [git](https://github.com/riverallzero/WIL#-git)
+- [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
 ### 📁 deeplearning
