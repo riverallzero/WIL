@@ -5,9 +5,13 @@
 - 배운 것을 문서(.md)로 만든 뒤 해당하는 주제 하위에 링크한다.
 
 ## Categories
+- [deeplearning](https://github.com/riverallzero/WIL#deeplearning)
 - [server](https://github.com/riverallzero/WIL#server)
 
 ## Contents
+### 📁 deeplearning
+- [ResNet50 backbone을 EfficientNet-b4로 바꾸기](https://github.com/riverallzero/WIL/blob/main/deeplearning/resnet-efficientnet.md)
+
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
 - [서버에서 Byobu 이용하기](https://github.com/riverallzero/WIL/blob/main/server/byobu.md)
