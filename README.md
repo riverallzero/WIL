@@ -15,7 +15,7 @@
 
 ### 📁 git
 - [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
-- [Public, Private 저장소별 커밋 및 브랜치 사용하기](https://github.com/riverallzero/WIL/blob/main/git/public-private.md)
+- [Public, Private 저장소별 클론 및 브랜치 사용하기](https://github.com/riverallzero/WIL/blob/main/git/public-private.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
