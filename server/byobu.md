@@ -13,5 +13,5 @@
 - Byobu 실행: ```byobu``` (분할 ```byobu -S1```, ```byobu -S2``` etc.)
 - 백그라운드 실행: ```sh train.sh &```
 - 작업확인: ```ps -ef | grep python```
-- 작업종료: ```pkill -9 work_id```
+- 작업종료: ```kill -9 <work-id>```
 - 강제종료: ```pkill -f byobu```
