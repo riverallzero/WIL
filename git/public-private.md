@@ -1,4 +1,4 @@
-# Public, Private 저장소별 커밋 및 브랜치 사용하기
+# Public, Private 저장소별 클론 및 브랜치 사용하기
 
 ## Public
 - 저장소 클론: ```git clone https://github.com/<username>/<repository>.git```
