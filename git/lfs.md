@@ -11,7 +11,7 @@ LFS는 큰 파일의 내용을 직접 저장하지 않고, 대신 작은 포인�
 '.gitattributes' 파일을 사용하여 어떤 파일이 LFS로 관리되어야 하는지를 정의하는, 이 파일에 특정 확장자나 경로를 추가하여 LFS가 해당 파일을 관리하도록 설정한다.
 
 ## 명령어
-- <code>git lfs track 파일명</code>
-- <code>git add .gitattributes</code>
-- <code>git commit -m "커밋 메세지"</code>
-- <code>git push origin</code>
+- ```git lfs track 파일명```
+- ```git add .gitattributes```
+- ```git commit -m "커밋 메세지"```
+- ```git push origin```

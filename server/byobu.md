@@ -10,8 +10,8 @@
 - 세션 관리: 여러 세션을 생성하고 관리하여 여러 프로젝트나 작업을 구분하여 실행하거나 저장할 수 있다.
 
 ## 명령어
-- Byobu 실행: <code>byobu</code> (분할 <code>byobu -S1</code>, <code>byobu -S2</code> etc.)
-- 백그라운드실행: <code>python train.py &</code>
-- 작업확인: <code>ps -ef | grep python</code>
-- 작업종료: <code>kill -9 work_id</code>
-- 강제종료: <code>pkill -f byobu</code>
+- Byobu 실행: ```byobu``` (분할 ```byobu -S1```, ```byobu -S2``` etc.)
+- 백그라운드 실행: ```sh train.sh &```
+- 작업확인: ```ps -ef | grep python```
+- 작업종료: ```pkill -9 work_id```
+- 강제종료: ```pkill -f byobu```
