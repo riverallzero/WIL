@@ -4,7 +4,8 @@
 ---| ---|
 
 ## GroundingDINO/util/inference.py
-pharse, logit을 출력하지 않고, 박스를 추출한 부분에서 바로 rectangle을 그렸다. 
+여러 요소를 검출할때 라벨 박스에 가리기도하고 조금 지저분하다고 느껴져 바운딩 박스만 남기기로 하였다. 
+추론 부분에서 pharse, logit을 출력하지 않고, 박스를 추출한 부분에서 바로 rectangle을 그렸다. 
 라벨 박스를 제거한 덕분에 소요 시간도 살짝 줄었다.
 
 ### before
