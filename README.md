@@ -7,6 +7,7 @@
 ## Categories
 - [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
 - [git](https://github.com/riverallzero/WIL#-git)
+- [graph](https://github.com/riverallzero/WIL#-graph))
 - [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
@@ -17,6 +18,9 @@
 ### 📁 git
 - [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
 - [Public, Private 저장소별 클론 및 브랜치 사용하기](https://github.com/riverallzero/WIL/blob/main/git/public-private.md)
+
+### 📁 graph
+- [matplotlib 한글 깨짐 해결하기(mac, window)](https://github.com/riverallzero/WIL/blob/main/graph/matplotlib-font.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
