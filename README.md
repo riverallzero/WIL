@@ -7,7 +7,7 @@
 ## Categories
 - [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
 - [git](https://github.com/riverallzero/WIL#-git)
-- [graph](https://github.com/riverallzero/WIL#-graph))
+- [graph](https://github.com/riverallzero/WIL#-graph)
 - [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
