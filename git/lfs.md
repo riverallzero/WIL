@@ -13,5 +13,6 @@ LFS는 큰 파일의 내용을 직접 저장하지 않고, 대신 작은 포인�
 ## 명령어
 - ```git lfs track 파일명```
 - ```git add .gitattributes```
+- ```git add .```
 - ```git commit -m "커밋 메세지"```
 - ```git push origin```
