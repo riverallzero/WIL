@@ -14,6 +14,7 @@
 ### 📁 deeplearning
 - [ResNet50 backbone을 EfficientNet-b4로 바꾸기](https://github.com/riverallzero/WIL/blob/main/deeplearning/resnet-efficientnet.md)
 - [GroundingDINO에서 라벨 박스를 제거해 바운딩 박스만 남기기](https://github.com/riverallzero/WIL/blob/main/deeplearning/groundingdino-del-label.md)
+- [RuntimeError(CUDA error: no kernel image is available for execution on the device) 해결하기](https://github.com/riverallzero/WIL/blob/main/deeplearning/runtime-error.md)
 
 ### 📁 git
 - [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
