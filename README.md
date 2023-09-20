@@ -19,7 +19,8 @@
 ### 📁 git
 - [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
 - [Public, Private 저장소별 클론 및 브랜치 사용하기](https://github.com/riverallzero/WIL/blob/main/git/public-private.md)
-
+- [commit 취소, 리셋하기](https://github.com/riverallzero/WIL/blob/main/git/commit.md)
+  
 ### 📁 graph
 - [matplotlib 한글 깨짐 해결하기(mac, window)](https://github.com/riverallzero/WIL/blob/main/graph/matplotlib-font.md)
 
