@@ -1,7 +1,7 @@
 # GroundingDINO에서 라벨 박스를 제거해 바운딩 박스만 남기기
 
-![](https://github.com/riverallzero/WIL/assets/93754504/1e2bd15e-6592-47fe-8c38-f23292ff1fd8) | ![](https://github.com/riverallzero/WIL/assets/93754504/a3f1ba63-a29b-4b37-b166-d1195f3c8d39) |
----| ---|
+![](../.asset/deeplearning-groundingdino-del-label-1.png) | ![](../.asset/deeplearning-groundingdino-del-label-2.png) |
+---|------------------|
 
 ## GroundingDINO/util/inference.py
 여러 요소를 검출할때 라벨 박스에 가리기도하고 조금 지저분하다고 느껴져 바운딩 박스만 남기기로 하였다. 
