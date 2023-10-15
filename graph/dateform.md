@@ -1,6 +1,6 @@
 # 그래프 축을 날짜로 설정하기
 
-<img src="../.asset/graph-dateform.png" width="350">
+<img src="../.asset/graph-dateform.png" width="500">
 
 ```python
 from matplotlib.dates import DateFormatter
