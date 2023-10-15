@@ -8,6 +8,7 @@
 - [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
 - [git](https://github.com/riverallzero/WIL#-git)
 - [graph](https://github.com/riverallzero/WIL#-graph)
+- [os](https://github.com/riverallzero/WIL#-os)
 - [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
@@ -24,6 +25,9 @@
 ### 📁 graph
 - [matplotlib 한글 깨짐 해결하기(mac, window)](https://github.com/riverallzero/WIL/blob/main/graph/matplotlib-font.md)
 - [그래프 축을 날짜로 설정하기](https://github.com/riverallzero/WIL/blob/main/graph/dateform.md)
+
+### 📁 os
+- [폴더 확인 후 생성하기](https://github.com/riverallzero/WIL/blob/main/os/set-output-dir.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
