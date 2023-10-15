@@ -23,6 +23,7 @@
   
 ### 📁 graph
 - [matplotlib 한글 깨짐 해결하기(mac, window)](https://github.com/riverallzero/WIL/blob/main/graph/matplotlib-font.md)
+- [그래프 축을 날짜로 설정하기](https://github.com/riverallzero/WIL/blob/main/graph/dateform.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
