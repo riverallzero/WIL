@@ -30,6 +30,7 @@
 
 ### 📁 linux
 - [아나콘다 설치하기](https://github.com/riverallzero/WIL/blob/main/linux/install-anaconda.md)
+- [Package 설치할때 모든 질문에 Y 입력하기](https://github.com/riverallzero/WIL/blob/main/linux/install-Y.md)
 
 ### 📁 os
 - [폴더 확인 후 생성하기](https://github.com/riverallzero/WIL/blob/main/os/set-output-dir.md)
