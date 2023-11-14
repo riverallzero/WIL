@@ -5,6 +5,7 @@
 - 배운 것을 문서(.md)로 만든 뒤 해당하는 주제 하위에 링크한다.
 
 ## Categories
+- [dataframe](https://github.com/riverallzero/WIL#-dataframe)
 - [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
 - [git](https://github.com/riverallzero/WIL#-git)
 - [graph](https://github.com/riverallzero/WIL#-graph)
@@ -13,6 +14,9 @@
 - [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
+### 📁 dataframe
+- [원하는 window수만큼 데이터 shift하기](https://github.com/riverallzero/WIL/blob/main/dataframe/shift.md)
+
 ### 📁 deeplearning
 - [ResNet50 backbone을 EfficientNet-b4로 바꾸기](https://github.com/riverallzero/WIL/blob/main/deeplearning/resnet-efficientnet.md)
 - [GroundingDINO에서 라벨 박스를 제거해 바운딩 박스만 남기기](https://github.com/riverallzero/WIL/blob/main/deeplearning/groundingdino-del-label.md)
