@@ -41,6 +41,7 @@
 ### 📁 os
 - [폴더 확인 후 생성하기](https://github.com/riverallzero/WIL/blob/main/os/set-output-dir.md)
 - [Gradio 임시 파일저장소 설정하기](https://github.com/riverallzero/WIL/blob/main/os/tmp.md)
+- [특정 폴더에 있는 모든 파일과 폴더 & 파일 & 폴더 출력하기](https://github.com/riverallzero/WIL/blob/main/os/folder-file.md)
 
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
