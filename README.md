@@ -42,7 +42,8 @@
 - [폴더 확인 후 생성하기](https://github.com/riverallzero/WIL/blob/main/os/set-output-dir.md)
 - [Gradio 임시 파일저장소 설정하기](https://github.com/riverallzero/WIL/blob/main/os/tmp.md)
 - [특정 폴더에 있는 모든 파일과 폴더 & 파일 & 폴더 출력하기](https://github.com/riverallzero/WIL/blob/main/os/folder-file.md)
-
+- [dataframe 열에 위치한 경로로 이미지 다운받기](https://github.com/riverallzero/WIL/blob/main/os/image-download.md)
+  
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
 - [서버에서 Byobu 이용하기](https://github.com/riverallzero/WIL/blob/main/server/byobu.md)
