@@ -11,7 +11,12 @@ import os
 
 df = pd.read_csv('data.csv')
 
+length = len(df)
+count = 0
+
 def download_image(row):
+    global count
+
     img_url = row['Img_Path']
     img_name = os.path.basename(img_url)
     img_path = os.path.join('data', img_name)
@@ -24,10 +29,10 @@ def download_image(row):
         with open(img_path, 'wb') as file:
             for data in response.iter_content(block_size):
                 file.write(data)
-
-        print(f"이미지 다운로드 완료: {img_path}")
+        count += 1
+        print(f'{count}/{length}')
     else:
-        print(f"이미지 다운로드 실패: {img_url}")
+        print(f'이미지 다운로드 실패: {img_url}')
 
 if not os.path.exists('data'):
     os.makedirs('data')
