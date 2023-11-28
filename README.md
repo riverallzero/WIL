@@ -47,3 +47,4 @@
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
 - [서버에서 Byobu 이용하기](https://github.com/riverallzero/WIL/blob/main/server/byobu.md)
+- [VS Code에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/vscode-ssh.md)
