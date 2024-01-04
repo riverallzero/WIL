@@ -8,6 +8,7 @@
 - [dataframe](https://github.com/riverallzero/WIL#-dataframe)
 - [deeplearning](https://github.com/riverallzero/WIL#-deeplearning)
 - [git](https://github.com/riverallzero/WIL#-git)
+- [github](https://github.com/riverallzero/WIL#-github)
 - [graph](https://github.com/riverallzero/WIL#-graph)
 - [linux](https://github.com/riverallzero/WIL#-linux)
 - [os](https://github.com/riverallzero/WIL#-os)
@@ -28,7 +29,12 @@
 - [LFS(Large File Storage)로 repository에 대용량 파일 올리기](https://github.com/riverallzero/WIL/blob/main/git/lfs.md)
 - [Public, Private 저장소별 클론 및 브랜치 사용하기](https://github.com/riverallzero/WIL/blob/main/git/public-private.md)
 - [commit 취소, 리셋하기](https://github.com/riverallzero/WIL/blob/main/git/commit.md)
-  
+
+### 📁 github
+- [코드로 깃허브 이슈 등록하기](https://github.com/riverallzero/WIL/blob/main/github/code-issue.md)
+- [코드에 들어가는 비밀번호, 토큰값 숨기기](https://github.com/riverallzero/WIL/blob/main/github/secret-key.md)
+- [contributors를 README.md에 뱃지로 표시하기](https://github.com/riverallzero/WIL/blob/main/github/contributors-badge.md)
+
 ### 📁 graph
 - [matplotlib 한글 깨짐 해결하기(mac, window)](https://github.com/riverallzero/WIL/blob/main/graph/matplotlib-font.md)
 - [그래프 축을 날짜로 설정하기](https://github.com/riverallzero/WIL/blob/main/graph/dateform.md)
