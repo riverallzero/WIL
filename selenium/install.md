@@ -12,7 +12,7 @@
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-url = 'https://nid.naver.com/nidlogin.login?mode=form&url=https://www.naver.com/'
+url = 'https://www.naver.com/'
 driver.get(url)
 ```
 
@@ -26,6 +26,6 @@ driver.get(url)
 from selenium import webdriver
 
 driver = webdriver.Chrome('/usr/local/bin/chromedriver')
-url = 'https://nid.naver.com/nidlogin.login?mode=form&url=https://www.naver.com/'
+url = 'https://www.naver.com/'
 driver.get(url)
 ```
