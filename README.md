@@ -12,6 +12,7 @@
 - [graph](https://github.com/riverallzero/WIL#-graph)
 - [linux](https://github.com/riverallzero/WIL#-linux)
 - [os](https://github.com/riverallzero/WIL#-os)
+- [selenium](https://github.com/riverallzero/WIL#-selenium)
 - [server](https://github.com/riverallzero/WIL#-server)
 
 ## Contents
@@ -49,7 +50,11 @@
 - [Gradio 임시 파일저장소 설정하기](https://github.com/riverallzero/WIL/blob/main/os/tmp.md)
 - [특정 폴더에 있는 모든 파일과 폴더 & 파일 & 폴더 출력하기](https://github.com/riverallzero/WIL/blob/main/os/folder-file.md)
 - [dataframe 열에 위치한 경로로 이미지 다운받기](https://github.com/riverallzero/WIL/blob/main/os/image-download.md)
-  
+
+### 📁 selenium
+- [셀레니움 설치하기(window, mac)](https://github.com/riverallzero/WIL/blob/main/selenium/install.md)
+- [웹브라우저가 로딩될때까지 기다리기](https://github.com/riverallzero/WIL/blob/main/selenium/wait-loading.md)
+
 ### 📁 server
 - [Pycharm에서 서버 접속하기](https://github.com/riverallzero/WIL/blob/main/server/pycharm-ssh.md)
 - [서버에서 Byobu 이용하기](https://github.com/riverallzero/WIL/blob/main/server/byobu.md)
